@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Liga da Justiça</string>
+    <string name="txttitulo">Consultar cadastro</string>
+    <string name="txtbatman">Batman</string>
+    <string name="txtsuperman">Superman</string>
+    <string name="txtflash">Flash</string>
+    <string name="txtlanterna">Lanterna Verde</string>
+
+    <string name="btnbatman">Ir</string>
+    <string name="btnsuperman">Ir</string>
+    <string name="btnflash">Ir</string>
+    <string name="btnlanterna">Ir</string>
+    <string name="btnintent">Saiba mais</string>
+
+    <string name="txtnome">Nome:</string>
+    <string name="txtcodinome">Codinome:</string>
+    <string name="txtespe">Espécie:</string>
+    <string name="txthab">Habilidade:</string>
+    <string name="txtvul">Vulnerabilidade:</string>
+    <string name="txtn_equip">Nome do equipamento:</string>
+    <string name="txtfin_equip">Finalidade do equipamento:</string>
+    <string name="txtdesc_equip">Descrição do equipamento:</string>
+    <string name="txtn_acesso">Nível de acesso:</string>
+</resources>
